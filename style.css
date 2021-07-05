@@ -56,3 +56,30 @@ h1{
 .middle-div p{
     text-align: justify;
 }
+.recipes{
+    text-align: center;
+    margin: 7%;
+}
+.third-sec{
+    display: flex;
+    width: 100%;
+}
+.set-img{
+    width: 33.3%;
+    border: 10px solid rgb(255, 0, 0);
+    margin: 30px;
+    padding: 10px;
+}
+.set-img img{
+    height: 250px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.set-img p{
+    text-align: justify;
+}
+h2{
+    padding-left: 15px;
+}
