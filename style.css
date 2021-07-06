@@ -8,7 +8,7 @@ body{
     display: flex;
     margin: 6%;
 }
-span{
+.title-color{
     color: rgba(255, 115, 0, 0.705);
 }
 h1{
@@ -78,4 +78,28 @@ h1{
 }
 .set-img p{
     text-align: justify;
+}
+.social-sec{
+    display: flex;
+    margin: 10% 10%;
+    padding: 30px;
+    box-shadow:10px 10px 40px gray;
+    border-radius: 20px;
+}
+.social-title{
+    align-items: center;
+    padding-left: 80px;
+    width: 33.3%;
+}
+footer{
+    text-align: center;
+    background: rgba(4, 4, 17, 0.938);
+    height: 200px;
+    padding-top: 30px;
+}
+footer p{
+    color: white;
+}
+footer h1{
+    color: white;
 }
