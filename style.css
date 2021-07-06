@@ -6,7 +6,6 @@ body{
 }
 .navbar{
     display: flex;
-    box-shadow:5px 5px 40px gray;
     height: 70px;
     top: 0;
     width: 100%;
