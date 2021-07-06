@@ -4,6 +4,30 @@ body{
     padding:0 ;
     
 }
+.navbar{
+    display: flex;
+    box-shadow:5px 5px 40px gray;
+    height: 70px;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+}
+.nav-item{
+    width: 50%;
+    margin-left: 30px;
+}
+.nav-item ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: 50px;   
+}
+.nav-item ul li a{
+    text-decoration:none;
+    color: black;
+    
+}
 .top-sec{
     display: flex;
     margin: 6%;
